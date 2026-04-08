@@ -1,0 +1,46 @@
+{
+  "category": [
+    "Access Management",
+    "Cloud",
+    "Database",
+    "Email",
+    "Hardware",
+    "Network",
+    "Printing",
+    "Security",
+    "Software",
+    "VPN"
+  ],
+  "priority": [
+    "Critical",
+    "High",
+    "Low",
+    "Medium"
+  ],
+  "status": [
+    "",
+    "Closed",
+    "Escalated",
+    "In Progress",
+    "Open",
+    "Resolved"
+  ],
+  "department": [
+    "",
+    "Engineering",
+    "Finance",
+    "HR",
+    "IT",
+    "Legal",
+    "Operations",
+    "Sales"
+  ],
+  "language": [
+    "de",
+    "en",
+    "es",
+    "fr",
+    "nl",
+    "pt"
+  ]
+}

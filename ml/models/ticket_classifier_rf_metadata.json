@@ -1,0 +1,21 @@
+{
+  "model_type": "TF-IDF + RandomForest",
+  "accuracy": 1.0,
+  "f1_weighted": 1.0,
+  "variant": "ab_test_b",
+  "classes": [
+    "Access Management",
+    "Cloud",
+    "Database",
+    "Email",
+    "Hardware",
+    "Network",
+    "Printing",
+    "Security",
+    "Software",
+    "VPN"
+  ],
+  "trained_at": "2026-04-08T09:32:53.274274",
+  "model_file": "ml\\models\\ticket_classifier_rf.pkl",
+  "version": "1.0.0"
+}

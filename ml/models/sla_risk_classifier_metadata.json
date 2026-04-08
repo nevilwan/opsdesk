@@ -1,0 +1,8 @@
+{
+  "model_type": "RandomForest SLA Risk",
+  "accuracy": 0.7858,
+  "f1_weighted": 0.7826,
+  "trained_at": "2026-04-08T09:32:57.739322",
+  "model_file": "ml\\models\\sla_risk_classifier.pkl",
+  "version": "1.0.0"
+}

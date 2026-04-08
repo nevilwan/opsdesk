@@ -1,0 +1,19 @@
+{
+  "model_type": "GradientBoostingRegressor (log-target)",
+  "mae_hours": 14.61,
+  "rmse_hours": 21.41,
+  "r2_score": 0.3272,
+  "feature_importance": {
+    "priority_numeric": 0.6036,
+    "text_length": 0.263,
+    "word_count": 0.0438,
+    "hour_of_day": 0.0368,
+    "category_encoded": 0.0308,
+    "day_of_week": 0.0178,
+    "is_weekend": 0.0023,
+    "is_business_hours": 0.0019
+  },
+  "trained_at": "2026-04-08T09:32:56.985045",
+  "model_file": "ml\\models\\resolution_predictor.pkl",
+  "version": "1.0.0"
+}

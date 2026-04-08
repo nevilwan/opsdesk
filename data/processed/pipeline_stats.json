@@ -1,0 +1,54 @@
+{
+  "total_tickets": 12000,
+  "date_range": {
+    "start": "2022-01-01 00:00:00",
+    "end": "2024-06-29 23:52:50"
+  },
+  "category_distribution": {
+    "Security": 1240,
+    "Access Management": 1227,
+    "Database": 1223,
+    "Software": 1222,
+    "Cloud": 1215,
+    "Hardware": 1203,
+    "Network": 1177,
+    "Printing": 1172,
+    "VPN": 1162,
+    "Email": 1159
+  },
+  "priority_distribution": {
+    "Medium": 4547,
+    "Low": 3459,
+    "High": 2492,
+    "Critical": 1502
+  },
+  "status_distribution": {
+    "": 5000,
+    "Resolved": 2684,
+    "In Progress": 1648,
+    "Closed": 1110,
+    "Open": 902,
+    "Escalated": 656
+  },
+  "language_distribution": {
+    "en": 10324,
+    "de": 371,
+    "nl": 328,
+    "es": 328,
+    "fr": 325,
+    "pt": 324
+  },
+  "tenant_distribution": {
+    "": 5000,
+    "tenant_acme": 2401,
+    "tenant_initech": 2331,
+    "tenant_globex": 2268
+  },
+  "avg_resolution_hours": 41.81875,
+  "sla_breach_rate": 0.08383333333333333,
+  "source_distribution": {
+    "classifier_v3": 5000,
+    "mendeley": 5000,
+    "multilang": 2000
+  }
+}

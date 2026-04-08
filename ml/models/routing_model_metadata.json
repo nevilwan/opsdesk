@@ -1,0 +1,17 @@
+{
+  "model_type": "RandomForest Routing",
+  "accuracy": 0.1443,
+  "f1_weighted": 0.1287,
+  "agents": [
+    "Alice Johnson",
+    "Bob Martinez",
+    "Carol White",
+    "David Lee",
+    "Emma Brown",
+    "Frank Davis"
+  ],
+  "n_agents": 6,
+  "trained_at": "2026-04-08T09:32:54.993707",
+  "model_file": "ml\\models\\routing_model.pkl",
+  "version": "1.0.0"
+}

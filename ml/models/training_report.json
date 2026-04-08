@@ -1,0 +1,11 @@
+{
+  "training_completed_at": "2026-04-08T09:32:58.153318",
+  "models_trained": [
+    "classifier",
+    "routing",
+    "resolution",
+    "sla_risk",
+    "knowledge_base"
+  ],
+  "model_directory": "ml\\models"
+}

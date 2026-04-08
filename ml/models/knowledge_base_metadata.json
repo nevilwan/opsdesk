@@ -1,0 +1,8 @@
+{
+  "type": "TF-IDF Knowledge Base",
+  "n_documents": 7000,
+  "vocab_size": 692,
+  "trained_at": "2026-04-08T09:32:58.142295",
+  "model_file": "ml\\models\\knowledge_base.pkl",
+  "version": "1.0.0"
+}

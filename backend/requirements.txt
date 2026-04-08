@@ -1,0 +1,60 @@
+# OpsDesk AI — Backend Dependencies
+# Python 3.11+
+
+# Web framework
+fastapi==0.111.0
+uvicorn[standard]==0.29.0
+pydantic==2.12.5
+pydantic-settings==2.2.1
+python-multipart==0.0.9
+
+# Database
+sqlalchemy==2.0.30
+asyncpg==0.31.0
+alembic==1.13.1
+psycopg2-binary==2.9.11
+
+# Cache
+redis==5.0.4
+hiredis==3.3.1
+
+# ML & Data
+scikit-learn==1.7.2
+numpy==2.4.4
+pandas==2.3.3
+joblib==1.4.2
+scipy==1.17.1
+
+# NLP
+nltk==3.8.1
+
+# Forecasting (optional — comment out if install is slow)
+# prophet==1.1.5
+# torch==2.3.0
+
+# Vector DB / Embeddings
+# faiss-cpu==1.8.0  # uncomment for FAISS-based KB search
+
+# OpenAI (optional)
+openai==1.30.1
+httpx==0.27.0
+
+# Explainability
+# shap==0.45.0  # uncomment for SHAP support
+
+# Auth & Security
+python-jose[cryptography]==3.3.0
+passlib[bcrypt]==1.7.4
+
+# Monitoring
+prometheus-fastapi-instrumentator==6.1.0
+
+# Utilities
+python-dotenv==1.0.1
+tenacity==8.3.0
+structlog==24.2.0
+
+# Dev/Testing
+pytest==8.2.0
+pytest-asyncio==0.23.6
+httpx==0.27.0

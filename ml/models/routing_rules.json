@@ -1,0 +1,16 @@
+{
+  "category_to_agent": {
+    "0": "Frank Davis",
+    "1": "David Lee",
+    "2": "Bob Martinez",
+    "3": "David Lee",
+    "4": "Emma Brown",
+    "5": "Frank Davis",
+    "6": "Bob Martinez",
+    "7": "Alice Johnson",
+    "8": "David Lee",
+    "9": "David Lee"
+  },
+  "default_agent": "Alice Johnson",
+  "escalation_threshold_priority": 4
+}
